@@ -2,7 +2,7 @@
 * John Skywalker
 
 ```
-git clone --depth=1 https://github.com/JohnNeoREALMEMI/Jofile.git
+git clone --depth=1 https://github.com/ShahzadNA/Jofile.git
 python FILE.py
 ```
 
